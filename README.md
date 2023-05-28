@@ -1,1 +1,1 @@
-# Color-Generator
+# color-generator
